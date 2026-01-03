@@ -37,7 +37,7 @@ python ytgrab.py <url> -o ./music      # custom output folder
 python ytgrab.py <url> --info-only     # just show video info
 ```
 
-**or just double-click `ytgrab.bat`** and paste your url. ez.
+**or just double-click `ytgrab.bat`** and paste your url.
 
 ## options
 
