@@ -2,7 +2,6 @@
 
 a simple youtube to mp3 cli tool that actually keeps your metadata intact.
 
-sick of downloading songs and losing all the title/artist info? same. so i made this.
 
 ## what it does
 
@@ -54,7 +53,6 @@ python ytgrab.py <url> --info-only     # just show video info
 
 this is for archiving content you have the right to download - your own uploads, creative commons stuff, public domain lectures, etc.
 
-dont be stupid with it.
 
 ## license
 
